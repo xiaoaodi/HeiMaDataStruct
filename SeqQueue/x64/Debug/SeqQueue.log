@@ -1,0 +1,16 @@
+﻿生成启动时间为 2022/2/11 0:30:17。
+     1>项目“C:\Users\hasee\Desktop\HeiMaDataStruct\hei-ma-data-struct\SeqQueue\SeqQueue.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\VS2015\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt CSeqQueue.cpp MainSeqQueueTest.cpp
+         MainSeqQueueTest.cpp
+         CSeqQueue.cpp
+         正在生成代码...
+       Link:
+         D:\Program Files (x86)\VS2015\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\hasee\Desktop\HeiMaDataStruct\hei-ma-data-struct\x64\Debug\SeqQueue.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\hasee\Desktop\HeiMaDataStruct\hei-ma-data-struct\x64\Debug\SeqQueue.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\hasee\Desktop\HeiMaDataStruct\hei-ma-data-struct\x64\Debug\SeqQueue.lib" /MACHINE:X64 x64\Debug\CSeqQueue.obj
+         x64\Debug\MainSeqQueueTest.obj
+         SeqQueue.vcxproj -> C:\Users\hasee\Desktop\HeiMaDataStruct\hei-ma-data-struct\x64\Debug\SeqQueue.exe
+     1>已完成生成项目“C:\Users\hasee\Desktop\HeiMaDataStruct\hei-ma-data-struct\SeqQueue\SeqQueue.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.56
